@@ -1,0 +1,9 @@
+This program takes two command line argument.
+First argument is the input text file.
+Second argument is the ouput analyzed file.
+   
+This program also has an output:
+The average time used to run the program.
+This output is used to measure the performance of this problem.
+
+This program assumes there are no symbols, numbers, and punctuation in the text file.
